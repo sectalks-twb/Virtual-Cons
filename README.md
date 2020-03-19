@@ -12,5 +12,5 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19
 *INTERNATIONAL*
 | Date         | Name           |Location       | Cover Charge  | Notes | Link |
 |:-------------|:--------------|:--------------|:-----------|:---------|:------------------------------------------------------|
-|    March      | KernelCon      |US              |Yes - $175 |            |https://reg.kernelcon.org/web/event?eventid=2138761344 |
-|   28/03/2019  | BSides Atlanta | US             | No | https://bsidesatl.org/ |
+|   March      | KernelCon      |US              |Yes - $175 |            |https://reg.kernelcon.org/web/event?eventid=2138761344 |
+|   March 28 | BSides Atlanta | US             | No |  |https://bsidesatl.org/ |
