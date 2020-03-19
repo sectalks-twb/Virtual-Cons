@@ -7,6 +7,7 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 | Date         | Name           |Location       | Cover Charge  | Notes | Link |
 |:-------------|:--------------|:--------------|:-----------|:---------|:------------------------------------------------------|
 | March 20 | SecTalks Sydney Live Stream | Sydney Australia | No | 6pm Start | https://youtu.be/Ovi0XdZ0gis |
+| March 2 | SecTalks Melbourne Live Stream | Melbourne Australia | No | 6pm Start | Coming Soon |
 | March 26 | SecTalks Hobart | Hobart Australia | No | 5.30pm Start | https://www.meetup.com/SecTalks-Hobart/events/269477437/ |
 |  April  1-2   | APJC Virtual      | Cisco Live Virtual |       |         | https://www.cisco.com/c/m/en_au/ciscolive/index.html  |
 | March 20 | March CyberSecurity in the Ether | Online | Free | |https://www.eventbrite.co.uk/e/march-cybersecurity-in-the-ether-tickets-98049160679?aff=ebdssbonlinesearch |
