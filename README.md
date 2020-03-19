@@ -14,3 +14,4 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19
 |:-------------|:--------------|:--------------|:-----------|:---------|:------------------------------------------------------|
 |   March      | KernelCon      |US              |Yes - $175 |            |https://reg.kernelcon.org/web/event?eventid=2138761344 |
 |   March 28 | BSides Atlanta | US             | No |  |https://bsidesatl.org/ |
+| August 6-9 | DEF CON | US | $320 | | https://www.defcon.org/html/defcon-28/dc-28-index.html |
