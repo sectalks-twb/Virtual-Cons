@@ -1,12 +1,12 @@
 # Virtual-Cons
 A list of Conferences and Meetups that have gone virtual due to COVID-19
 *AUSTRALIA*
-| Month         | Location       | Cover Charge  | Link
-| ------------- |:--------------:| -------------:|------:|
-|   March       | Some Town      | No            |example.com |
+| Month         | Name           |Location       | Cover Charge  | Link
+| ------------- |:--------------:| -------------:|-----------:|-------------------------------------------------------:|
+|   March       | Some Town      | Con Name       | No        |example.com |
 
 
 *INTERNATIONAL*
-| Month         | Location       | Cover Charge  | Link
-| ------------- |:--------------:| -------------:|------:|
-|   March       | Some Town      | No            |example.com |
+| Month         | Name           |Location       | Cover Charge  | Link
+| ------------- |:--------------:| -------------:|-----------:|-------------------------------------------------------:|
+|    March      | KernelCon      |US              |Yes - $175 | https://reg.kernelcon.org/web/event?eventid=2138761344 |
