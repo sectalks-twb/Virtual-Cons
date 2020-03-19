@@ -6,7 +6,7 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 
 | Date         | Name           |Location       | Cover Charge  | Notes | Link |
 |:-------------|:--------------|:--------------|:-----------|:---------|:------------------------------------------------------|
-| March 20 | SecTalks Sydney Live Stream | Sydney Australia | No | 6pm Start | https://youtu.be/Ovi0XdZ0gis |
+| March 2 | SecTalks Melbourne Live Stream | Melbourne Australia | No | 6pm Start | Coming Soon |
 | March 20 | March CyberSecurity in the Ether | Online | Free | |https://www.eventbrite.co.uk/e/march-cybersecurity-in-the-ether-tickets-98049160679?aff=ebdssbonlinesearch |
 | March 20 | 3-Hour Virtual Seminar On HIPAA Changes 2020 & How to conduct a HIPAA Security Risk Assessment | Online | $367 || https://www.eventbrite.com/e/3-hour-virtual-seminar-on-hipaa-changes-2020-how-to-conduct-a-hipaa-secur-tickets-99514907768?aff=ebdssbonlinesearch |
 | March 26 | SecTalks Hobart | Hobart Australia | No | 5.30pm Start | https://www.meetup.com/SecTalks-Hobart/events/269477437/ |
@@ -27,4 +27,3 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 | May 1 | BSides Knoxville | US | $25 | | https://www.eventbrite.com/e/bsides-knoxville-2020-tickets-91688535879 |
 | May 17-20 |FS-ISAC Spring Summit | US | Unknown | Details TBA | https://www.hackerone.com/events/2020/fs-isac-spring|
 | May 18-20 | IEEE S&P | US - San Francisco | Unknown | |https://www.ieee-security.org/TC/SP2020/ |
-| August 6-9 | DEF CON | US | $320 | | https://www.defcon.org/html/defcon-28/dc-28-index.html |
