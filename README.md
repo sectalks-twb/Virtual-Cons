@@ -1,5 +1,5 @@
 # Virtual-Cons
-A list of Conferences and Meetups that have gone virtual due to COVID-19
+A list of Conferences and Meetups that have gone virtual due to COVID-19, or were already virtual and will give you something to do whilst socially distancing yourself.
 
 
 *AUSTRALIA*
