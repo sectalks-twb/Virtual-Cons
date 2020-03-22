@@ -23,7 +23,10 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 |:-------------|:--------------|:--------------|:-----------|:---------|:------------------------------------------------------|
 |   March      | KernelCon      |US              |Yes - $175 |            |https://reg.kernelcon.org/web/event?eventid=2138761344 |
 | March 25 | OPCDE Opcode online | UAE? | ? | 9am -11:50am PST | https://online.opcde.com/ |
-| March 28 | BSides Atlanta | US             | No |  |https://bsidesatl.org/ |
+| March 28 | BSides Atlanta | US             | No |  | https://bsidesatl.org/ |
+| April 1 | 4th Cointelligence Academy Community Meetup | US             | No | 6:30 PM – 9:00 PM CDT | https://www.eventbrite.com/e/4th-cointelligence-academy-community-meetup-tickets-95259534833?aff=erelexpmlt |
+| April 3-4 | VirSecCon CTF | US             | No | April 3rd, 12:00 PM — April 4th, 6:00 PM EST | https://jhdigital.io/ https://ctf.virseccon.com/ |
+| April 4 | VirSecCon | US             | No |  | https://virseccon.com/ |
 | May 1 | BSides Knoxville | US | $25 | | https://www.eventbrite.com/e/bsides-knoxville-2020-tickets-91688535879 |
 | May 17-20 |FS-ISAC Spring Summit | US | Unknown | Details TBA | https://www.hackerone.com/events/2020/fs-isac-spring|
 | May 18-20 | IEEE S&P | US - San Francisco | Unknown | |https://www.ieee-security.org/TC/SP2020/ |
