@@ -6,8 +6,6 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 
 | Date         | Name           |Location       | Cover Charge  | Notes | Link |
 |:-------------|:--------------|:--------------|:-----------|:---------|:------------------------------------------------------|
-|  April  1-2   | APJC Virtual      | Cisco Live Virtual |       |         | https://www.cisco.com/c/m/en_au/ciscolive/index.html  |
-| April 11 | ComfyCon Au | Australia | Free || https://www.comfyconau.rocks/ |
 | April 16 | APAC Cyber Security Innovation Roundtable | Online | $349 | |https://www.eventbrite.com/e/apac-cyber-security-innovation-roundtable-tickets-93043821575?aff=ebdssbonlinesearch |
 |   May         | BSides Canberra| Canberra      | $50-100    | TBA, May be a virtual-con or possibly rescheduled | |https://www.bsidesau.com.au/health.html | 
 
@@ -35,3 +33,5 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 |   March      | KernelCon      |US              |Yes - $175 |            |https://reg.kernelcon.org/web/event?eventid=2138761344 |
 | March 25 | OPCDE Opcode online | UAE? | ? | 9am -11:50am PST | https://online.opcde.com/ |
 | March 28 | BSides Atlanta | US             | No |  | https://bsidesatl.org/ |
+|  April  1-2   | APJC Virtual      | Cisco Live Virtual |       |         | https://www.cisco.com/c/m/en_au/ciscolive/index.html  |
+| April 11 | ComfyCon Au | Australia | Free || https://www.comfyconau.rocks/ |
