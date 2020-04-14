@@ -15,9 +15,10 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 
 | Date         | Name           |Location       | Cover Charge  | Notes | Link |
 |:-------------|:--------------|:--------------|:-----------|:---------|:------------------------------------------------------|
-| April 1 | 4th Cointelligence Academy Community Meetup | US             | No | 6:30 PM – 9:00 PM CDT | https://www.eventbrite.com/e/4th-cointelligence-academy-community-meetup-tickets-95259534833?aff=erelexpmlt |
-| April 3-4 | VirSecCon CTF | US             | No | April 3rd, 12:00 PM — April 4th, 6:00 PM EST | https://jhdigital.io/ https://ctf.virseccon.com/ |
-| April 6 - 10 | SpectreOps Week of Webinars | US | No | 30 Min Webinar each day | https://twitter.com/SpecterOps/status/1243623526046871552 |
+| April 14th | Grimmcon | US | Free | 1100 - 1900 EST | 14 APR 20, 1100 - 1900 EST |
+| April 18th | InfoSec OASIS | US | Free | VR Conference (VR not required but recommended) | https://infosecoasis.com/ |
+| April 19th | Isolation Con | Unknown | Free | Starts 1400 UTC | https://themanyhats.club/the-many-hats-club-presents-isolationcon/ |
+| April 25 & 26 | HITB Lockdown Livestream | US | Free | 10am - 6pm CET | https://conference.hitb.org/lockdown-livestream/ | 
 | May 1 | BSides Knoxville | US | $25 | | https://www.eventbrite.com/e/bsides-knoxville-2020-tickets-91688535879 |
 | May 17-20 |FS-ISAC Spring Summit | US | Unknown | Details TBA | https://www.hackerone.com/events/2020/fs-isac-spring|
 | May 18-20 | IEEE S&P | US - San Francisco | Unknown | |https://www.ieee-security.org/TC/SP2020/ |
@@ -35,4 +36,7 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 | March 25 | OPCDE Opcode online | UAE? | ? | 9am -11:50am PST | https://online.opcde.com/ |
 | March 28 | BSides Atlanta | US             | No |  | https://bsidesatl.org/ |
 |  April  1-2   | APJC Virtual      | Cisco Live Virtual |       |         | https://www.cisco.com/c/m/en_au/ciscolive/index.html  |
-| April 11 | ComfyCon Au | Australia | Free || https://www.comfyconau.rocks/ |
+| April 1 | 4th Cointelligence Academy Community Meetup | US             | No | 6:30 PM – 9:00 PM CDT | https://www.eventbrite.com/e/4th-cointelligence-academy-community-meetup-tickets-95259534833?aff=erelexpmlt |
+| April 3-4 | VirSecCon CTF | US             | No | April 3rd, 12:00 PM — April 4th, 6:00 PM EST | https://jhdigital.io/ https://ctf.virseccon.com/ |
+| April 6 - 10 | SpectreOps Week of Webinars | US | No | 30 Min Webinar each day | https://twitter.com/SpecterOps/status/1243623526046871552 |
+| April 10 & 11 | ComfyCon Au | Australia | Free || https://www.comfyconau.rocks/ | 
