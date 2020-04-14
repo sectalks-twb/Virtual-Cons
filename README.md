@@ -7,6 +7,7 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 | Date         | Name           |Location       | Cover Charge  | Notes | Link |
 |:-------------|:--------------|:--------------|:-----------|:---------|:------------------------------------------------------|
 | April 16 | APAC Cyber Security Innovation Roundtable | Online | $349 | |https://www.eventbrite.com/e/apac-cyber-security-innovation-roundtable-tickets-93043821575?aff=ebdssbonlinesearch |
+| April 23 | SecTalks_TWB 0x015 - RCE and You | Online (QLD) | Monthly (In)Security Meetup | Clin looks into modern day remote code/command execution in web applications and discusses development and administration best practices. Includes live examples for you to exploit!| https://www.meetup.com/en-AU/SecTalks-Toowoomba/events/269785365/ | 
 |   May         | BSides Canberra| Canberra      | $50-100    | TBA, May be a virtual-con or possibly rescheduled | |https://www.bsidesau.com.au/health.html | 
 
 
