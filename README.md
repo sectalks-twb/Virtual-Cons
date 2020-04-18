@@ -19,6 +19,7 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 | April 18th | InfoSec OASIS | US | Free | VR Conference (VR not required but recommended) | https://infosecoasis.com/ |
 | April 19th | Isolation Con | Unknown | Free | Starts 1400 UTC | https://themanyhats.club/the-many-hats-club-presents-isolationcon/ |
 | April 25 & 26 | HITB Lockdown Livestream | US | Free | 10am - 6pm CET | https://conference.hitb.org/lockdown-livestream/ | 
+| April 27-29th | OWASP Virtual AppSec Days | US | Free and Paid | Mini Conference on 27th is Free, other sessions are paid | https://appsecdays.org/ | 
 | May 1 | BSides Knoxville | US | $25 | | https://www.eventbrite.com/e/bsides-knoxville-2020-tickets-91688535879 |
 | May 17-20 |FS-ISAC Spring Summit | US | Unknown | Details TBA | https://www.hackerone.com/events/2020/fs-isac-spring|
 | May 18-20 | IEEE S&P | US - San Francisco | Unknown | |https://www.ieee-security.org/TC/SP2020/ |
