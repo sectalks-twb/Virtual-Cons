@@ -28,6 +28,7 @@ A list of Conferences and Meetups that have gone virtual due to COVID-19, or wer
 
 | Date         | Name           |Location       | Cover Charge  | Notes | Link |
 |:-------------|:--------------|:--------------|:-----------|:---------|:------------------------------------------------------|
+| Feb 14-15 | OffensiveCon | Berlin, Germany | N/A | YouTube talks from this conference are published | https://www.offensivecon.org/ https://www.youtube.com/playlist?list=PLYvhPWR_XYJnX_sscErznYqwBrIhuS08O | 
 | March 2 | SecTalks Melbourne Live Stream | Melbourne Australia | No | 6pm Start | Coming Soon |
 | March 20 | March CyberSecurity in the Ether | Online | Free | |https://www.eventbrite.co.uk/e/march-cybersecurity-in-the-ether-tickets-98049160679?aff=ebdssbonlinesearch |
 | March 20 | 3-Hour Virtual Seminar On HIPAA Changes 2020 & How to conduct a HIPAA Security Risk Assessment | Online | $367 || https://www.eventbrite.com/e/3-hour-virtual-seminar-on-hipaa-changes-2020-how-to-conduct-a-hipaa-secur-tickets-99514907768?aff=ebdssbonlinesearch |
